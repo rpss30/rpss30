@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Rishav and I'm at HackCamp
+### Hi there 👋 my name is Rishav and I'm at HackCamp with Rishabh
 
 <!--
 **rpss30/rpss30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
